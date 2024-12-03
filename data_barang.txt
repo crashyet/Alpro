@@ -1,0 +1,7 @@
+1 | Fdgfdc | Rp 1.234.654 | 12 
+2 | Jhgbfv | Rp 234 | 345 
+3 | Mesin Cuci | Rp 2.343 | 1 
+4 | Kulkas | Rp 20.000 | 4 
+5 | Kulkas | Rp 300.000.000 | 6 
+6 | Laptop | Rp 7.916.239.879 | 123 
+7 | Ertfg | Rp 123.456.789 | 27 
